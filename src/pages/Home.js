@@ -68,12 +68,7 @@ const Home = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.8, delay: 0.8 }}
         >
-          <a
-            href="#"
-            className="px-4 py-2 bg-blue-500 rounded-lg shadow-md hover:bg-blue-600"
-          >
-            📜 Resume
-          </a>
+          <a href="/resume.pdf" download className="px-4 py-2 bg-blue-500 rounded-lg shadow-md hover:bg-blue-600">📜 Resume</a>
           <a
             href="#contact"
             className="px-4 py-2 bg-gray-700 rounded-lg hover:bg-gray-600"
