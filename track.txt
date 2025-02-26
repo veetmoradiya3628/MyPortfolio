@@ -1,8 +1,0 @@
-References:
-https://bostami-bootstrap-nextjs.vercel.app/home-2
-https://bostami-bootstrap-nextjs.vercel.app/contact-3
-https://bostami-bootstrap-nextjs.vercel.app/contact
-
-
-https://www.hyperui.dev/
-
