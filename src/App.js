@@ -9,7 +9,7 @@ import Blogs from './pages/Blogs';
 
 function App() {
   return (
-    <Router basename='/'>
+    <Router basename='/MyPortfolio'>
       <div className='flex'>
         <div className="flex-grow">
           <Navbar />
