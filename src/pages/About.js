@@ -8,7 +8,7 @@ const About = () => {
         <div className="flex justify-center">
           <img
             className="w-32 h-32 rounded-full border-4 border-gray-300"
-            src="/profile_veet.jpeg"
+            src="./MyPortfolio/profile_veet.jpeg"
             alt="Profile"
           />
         </div>

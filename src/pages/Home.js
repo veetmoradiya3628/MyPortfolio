@@ -28,7 +28,7 @@ const Home = () => {
     <motion.section
       className="flex items-center justify-center bg-cover bg-center"
       style={{
-        backgroundImage: "url('/background.jpg')",
+        backgroundImage: "url('./MyPortfolio/background.jpg')",
         minHeight: "calc(100vh - 64px)", 
         marginTop: "64px",
       }}
