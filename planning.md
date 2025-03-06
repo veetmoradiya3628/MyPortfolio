@@ -30,3 +30,6 @@ Contact
 - google form or simple form for contact me
 Skills
 - list of skills to be added with proficiency
+
+
+multi color / theme to be added
